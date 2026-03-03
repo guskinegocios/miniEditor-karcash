@@ -67,5 +67,5 @@ npm run dev
 
 ## 👤 Autor
 
-Desenvolvido para o ecossistema **KarCash** por **Módulo Web**.  
+Desenvolvido para o ecossistema **KarCash** por **[Módulo Web](https://www.moduloweb.com.br/)**.
 *Transformando ideias em produtos digitais de alta performance.*
